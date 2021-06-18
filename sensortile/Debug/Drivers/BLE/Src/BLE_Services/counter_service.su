@@ -1,0 +1,5 @@
+counter_service.c:42:6:set_counter_1_characteristic	16	static
+counter_service.c:54:6:set_counter_2_characteristic	16	static
+counter_service.c:68:6:send_counter_1	56	static
+counter_service.c:101:6:send_counter_2	32	static
+counter_service.c:129:12:add_counter_service	56	static

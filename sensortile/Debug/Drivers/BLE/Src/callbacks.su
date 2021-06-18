@@ -1,0 +1,7 @@
+callbacks.c:24:6:set_cb_functions	16	static
+callbacks.c:34:9:is_connected	4	static
+callbacks.c:43:6:cb_on_gap_connection_complete	16	static
+callbacks.c:53:6:cb_on_gap_disconnection_complete	16	static
+callbacks.c:71:6:cb_on_read_request	24	static
+callbacks.c:93:6:cb_on_attribute_modified	24	static
+callbacks.c:118:6:send_notification	16	static

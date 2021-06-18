@@ -1,0 +1,8 @@
+app_ble.c:39:12:MX_BlueNRG_MS_Init	48	static
+app_ble.c:89:12:MX_BlueNRG_MS_Process	16	static
+app_ble.c:111:6:set_connectable_status	4	static
+app_ble.c:118:6:clear_connectable_status	4	static
+app_ble.c:126:12:establish_connection	64	static
+app_ble.c:155:6:meta_event_handler	24	static
+app_ble.c:167:6:vendor_event_handler	24	static
+app_ble.c:183:6:event_user_notify	32	static
