@@ -86,7 +86,7 @@ def main():
 	#################################################################################################################
 	### Configure here to select which Writer you want to use and which characteristic datas you want to collect ####
 	#################################################################################################################
-	dataCollector.set_all_writer_types("PrinterWriter")
+	dataCollector.set_all_writer_types("PerfWriter")
 	dataCollector.set_target_characteristic_on_device('P&SNode',['00020000-0001-11e1-ac36-0002a5d5c51b',
 																 '001d0000-0001-11e1-ac36-0002a5d5c51b'])
 
