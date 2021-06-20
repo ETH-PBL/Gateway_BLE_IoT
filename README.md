@@ -22,7 +22,7 @@ More about this [issue](https://devzone.nordicsemi.com/f/nordic-q-a/74727/pc-ble
 ### Using with macOS brew python
 [Referring here](https://github.com/ThomasGerstenberg/blatann#using-with-macos-brew-python)
 
-## Example how to use run.py:
+## Example how to use /framework/run.py:
 
 ```c
 """
