@@ -126,7 +126,7 @@ def main():
 
 After the measurement, the data received from the peripherals will be saved in the subdirectory /data. This subdirectory will be saved in the directory, where you are launching the run.py script.
 
-For questions, please contact [jaclim@ethz.ch](jaclim@ethz.ch)
+For questions, please contact jaclim@ethz.ch
 
 
 
